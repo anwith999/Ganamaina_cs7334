@@ -1,0 +1,4 @@
+TACC:  Starting up job 3035850 
+TACC:  Starting parallel tasks... 
+Total number of messages consumed: 222994560
+TACC:  Shutdown complete. Exiting. 
